@@ -28,7 +28,7 @@ npm install
 
 Start the development server:
 
-    npm run dev  # for Next.js
+    npm run dev
 
     Open your browser and go to http://localhost:3000 to view the portfolio.
 
