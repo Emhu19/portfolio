@@ -43,6 +43,7 @@ Make sure to keep sensitive information secure and avoid committing .env files t
 Deployment
 
 This portfolio is deployed on emhu.fr
+
 Contributing
 
 This project is currently not open for contributions, but feel free to reach out with feedback or suggestions!
